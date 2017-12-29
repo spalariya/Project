@@ -80,7 +80,7 @@ Import-Package: !org.apache.avalon.framework.*,\
 
 
 
-
+mport-Package: !org.apache.avalon.testwork.*
 
 
 
